@@ -1,7 +1,7 @@
 # Allight
 > all(모두) + light(가볍다) 
 
-"allight"은 다이어트 관리 홈페이지[다이어리 & 커뮤니티 & 칼로리 사전 & 쇼핑] 제작 팀 프로젝트입니다.
+다이어트 관리 홈페이지 - 다이어리 & 커뮤니티 & 칼로리 사전 & 쇼핑 
 
 ## 벤치마킹 사이트
 > [다신샵](https://dshop.dietshin.com/)<br>
@@ -73,6 +73,7 @@
 ![음식 칼로리 추가 화면](https://user-images.githubusercontent.com/63843905/128105018-4cc5ff0c-df0c-480f-a5f5-b2bf05cf5a14.png)
 ***
 ![음식 칼로리 추가 화면2](https://user-images.githubusercontent.com/63843905/128105056-3e2c3423-c1d8-4eb4-989c-58fd6fcb9fb6.png)
+
 ### 2. 쇼핑 카테고리 목록·브랜드관·상세 (Front-End, Back-End)
 - 쇼핑 목록/브랜드관 조회
 - 상품 상세 페이지 내용 조회
